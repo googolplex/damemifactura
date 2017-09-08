@@ -10,4 +10,4 @@ git commit -a -m "ejemplo listo para la clase"
 git push -u origin master
 
 # repongo la llave
-cp ../damemifactura*.json llave/
+cp ../damelafactura*.json llave/
