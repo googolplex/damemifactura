@@ -1,0 +1,68 @@
+{
+	"name": "damemifactura",
+	"description": "para emision de facturas por celular",
+	"keywords": [],
+	"homepage": "http://www.tecshopy.com",
+	"bugs": {
+		"email": "googolplex@lcompras.biz"
+	},
+	"license": "GPL-3.0",
+	"licenses": [
+		{}
+	],
+	"author": {
+		"name": "googol plex",
+		"url": "http://www.tecshopy.com",
+		"email": "googolplex@lcompras.biz"
+	},
+	"contributors": [],
+	"maintainers": [],
+	"files": [],
+	"man": [],
+	"directories": {},
+	"repository": {},
+	"scripts": {},
+	"config": {},
+	"dependencies": {
+		"firebase": "^4.3.1"
+	},
+	"devDependencies": {},
+	"bundleDependencies": [],
+	"bundledDependencies": [],
+	"optionalDependencies": {},
+	"peerDependencies": {},
+	"engines": {},
+	"os": [],
+	"cpu": [],
+	"publishConfig": {},
+	"dist": {},
+	"jspm": {
+		"version": "1",
+		"keywords": [],
+		"bugs": {},
+		"licenses": [],
+		"author": {},
+		"contributors": [],
+		"maintainers": [],
+		"files": [],
+		"man": [],
+		"directories": {},
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/googolplex/damemifactura.git"
+		},
+		"scripts": {},
+		"config": {},
+		"dependencies": {},
+		"devDependencies": {},
+		"bundleDependencies": [],
+		"bundledDependencies": [],
+		"optionalDependencies": {},
+		"peerDependencies": {},
+		"engines": {},
+		"os": [],
+		"cpu": [],
+		"publishConfig": {},
+		"dist": {}
+	}
+}
