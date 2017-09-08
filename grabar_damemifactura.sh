@@ -6,7 +6,7 @@ rm ./llave/*
 rm /*.*~
 # cd damemifactura
 git add -A
-git commit -a -m "pruebo la base firebase"
+git commit -a -m "ejemplo listo para la clase"
 git push -u origin master
 
 # repongo la llave
